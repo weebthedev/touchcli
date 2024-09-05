@@ -39,7 +39,7 @@ async function createTouchCLIApp() {
     console.log(chalk.yellow('No folder name provided. Using default name "bot".'));
   }
 
-  const repoUrl = 'https://github.com/weebwashere/daisyui-sveltekit-jaqdxv.git';
+  const repoUrl = 'https://github.com/weebthedev/touchcli-template.git';
   const targetPath = path.join(process.cwd(), folderName);
 
   try {
