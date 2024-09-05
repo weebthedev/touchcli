@@ -1,6 +1,6 @@
 {
   "name": "@weebwashere/touchcli",
-  "version": "1.0.5v2",
+  "version": "1.0.6",
   "type": "module",
   "main": "index.js",
   "bin": {
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["touchcli", "touchguild"],
   "author": "weebthedev",
   "description": "A CLI to interact with touchguild.",
   "dependencies": {
