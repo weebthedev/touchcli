@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/assets/img.jpeg" alt="Image Description" />
+<img src="/cli/assets/img.jpeg" alt="Image Description" />
 
 # TouchCLI
 A CLI for getting started with [touchguild](https://touchguild.com)!

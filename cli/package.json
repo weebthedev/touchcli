@@ -1,6 +1,6 @@
 {
   "name": "@weebwashere/touchcli",
-  "version": "1.0.5",
+  "version": "1.0.5v2",
   "type": "module",
   "main": "index.js",
   "bin": {
