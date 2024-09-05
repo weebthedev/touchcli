@@ -66,7 +66,7 @@ async function createTouchCLIApp() {
     execSync('npm install', { cwd: targetPath, stdio: 'ignore' });
     installSpinner.succeed('Dependencies installed successfully');
 
-    console.log('\n' + chalk.green.bold('TouchCLI app created successfully! 🎉'));
+    console.log('\n' + chalk.green.bold('Created successfully! 🎉'));
     console.log('\n' + chalk.yellow.bold('To get started:'));
     console.log(chalk.cyan(`  cd ${folderName}`));
     console.log(chalk.cyan('  npm start'));
