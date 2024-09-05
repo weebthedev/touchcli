@@ -1,8 +1,11 @@
 {
   "name": "@weebwashere/touchcli",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "type": "module",
   "main": "index.js",
+  "bin": {
+    "create-touchcli-app": "./bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
