@@ -1,10 +1,6 @@
 <div align="center">
 
-<<<<<<< HEAD
-<img src="https://raw.githubusercontent.com/weebthedev/touchcli/main/cli/assets/img.jpeg" alt="Image Description" />
-=======
-<img src="https://github.com/weebthedev/touchcli/blob/main/cli/assets/img.jpeg?raw=true" alt="Image Description" />
->>>>>>> a4f64d9ca60f30092ce9cb36fa5c706576bc5bee
+<img src="/cli/assets/img.jpeg" alt="Image Description" />
 
 # TouchCLI
 A CLI for getting started with [touchguild](https://touchguild.com)!
